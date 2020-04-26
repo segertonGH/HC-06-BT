@@ -1,8 +1,8 @@
-# HC-06-BT
-An Arduino library for the HC-06 Bluetooth module using the BC417 chip. Made for version "hc01.comV2.0", but might work with others.
+# HC-18-BLE
+An Arduino library for the HC-18 Bluetooth module from DSD TECH using the CC2640 chip. Made for version "HM10-V111" firmware, but might work with others.
 
 ## Background
-I was unable to get my Bluetooth module going, so I combined some other libraries to code my own. Maybe this might be helpful for others.
+This code is based on the orginal from dennistreysa/HC-06-BT
 
 ## Config
 There is not much you can configure. A minimal setup looks like the following:
@@ -28,8 +28,7 @@ As you can read [here](https://www.arduino.cc/en/Reference/SoftwareSerial) there
 
 ## Resources
 
-* [Martyn Currey's Blog](http://www.martyncurrey.com/hc-06-hc01-comv2-0/)
-* [Chinese original datasheet](http://www.hc01.com/Public/uploads/file/HC-05AT.pdf)
+* [DSD TECH DataSheet](https://drive.google.com/file/d/1tKEwk9f0gSQ1rSV3ei9nNnNElQzgrnN0/view?usp=sharing)
 
 ## Other Libraries
 
