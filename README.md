@@ -1,5 +1,5 @@
-# HC-18-BLE
-An Arduino library for the HC-18 Bluetooth module from DSD TECH using the CC2640 chip. Made for version "HM10-V111" firmware, but might work with others.
+# HM-18-BLE
+An Arduino library for the HM-18 Bluetooth module from DSD TECH using the CC2640 chip. Made for version "HM10-V111" firmware, but might work with others.
 
 ## Background
 This code is based on the orginal from dennistreysa/HC-06-BT
