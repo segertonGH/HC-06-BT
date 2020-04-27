@@ -5,6 +5,12 @@
  *	Author: dennistreysa
  *
  *	Last Changed: 2017-02-04
+ *
+ *  Author: segertonGH
+ *
+ *  Class updated to include support for the HM-18 BLE module with HM-10 firmware, tested on the DSD TECH BLE module
+ *
+ *  Last Changed: 2020-04-27
  */
 
 #ifndef _BLUETOOTH_H_
